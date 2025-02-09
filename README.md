@@ -3,7 +3,7 @@ Modernized version of Google's classic Dinosaur Game with new features, some 8-b
 
 # Instructions
 
-Execute the EXE (Windows only) or open the "main.pde" file in Processing and click Run. Appreciate my magnum opus.
+Install latest version of Java SE Development Kit. Extract DinoGun ZIP file and run the executable. Appreciate my magnum opus.
 
 # Controls
 
