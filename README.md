@@ -5,7 +5,7 @@ Modernized version of Google's classic Dinosaur Game with new features, some 8-b
 
 Execute the EXE (Windows only) or open the file in Processing and click Run. Appreciate my magnum opus.
 
-# CONTROLS
+# Controls
 
 W or Up Arrow     -  Jump
 A or Left Arrow   -  Strafe Left
