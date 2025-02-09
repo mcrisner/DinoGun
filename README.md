@@ -12,7 +12,7 @@ A or Left Arrow   -  Strafe Left
 D or Right Arrow  -  Strafe Right
 Space             -  Fire Blunderbuss
 
-## Fun Technical Details
+# Technical Details
 
 The Player class handles the dino's movement data and various states like jumping and invincibility. If the player tries to jump
 while in the air within a certain proximity to the ground, it will queue a jump buffer and then jump immediately once the player
