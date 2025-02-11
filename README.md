@@ -7,9 +7,9 @@ Install latest version of Java SE Development Kit. Extract DinoGun ZIP file and 
 
 # Controls
 
-W or Up Arrow     -  Jump
-A or Left Arrow   -  Strafe Left
-D or Right Arrow  -  Strafe Right
+W or Up Arrow     -  Jump\
+A or Left Arrow   -  Strafe Left\
+D or Right Arrow  -  Strafe Right\
 Space             -  Fire Blunderbuss
 
 # Features
