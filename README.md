@@ -35,7 +35,7 @@ Chrome UX Team - Dinosaur Sprite\
 Natalia Kosheleva - Cactus Sprites\
 Dong Nguyen - Flappy Bird Sprite\
 Pixilart - Background, Blunderbuss, Coin, & Cloud Sprites\
-Mojang Studios - Minecraft Grass Texture
-Eric Fredricksen - Jsfxr Sound Maker 
-Daft Punk - Digital Love (8-Bit Universe Remix)
+Mojang Studios - Minecraft Grass Texture\
+Eric Fredricksen - Jsfxr Sound Maker \
+Daft Punk - Digital Love (8-Bit Universe Remix)\
 Playboi Carti - King Vamp (SuperNeonIceLogan Remix)
